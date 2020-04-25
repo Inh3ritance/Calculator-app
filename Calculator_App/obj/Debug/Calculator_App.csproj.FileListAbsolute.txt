@@ -1,0 +1,30 @@
+C:\Users\herre\source\repos\Calculator_App\bin\Debug\Calculator_App.exe.config
+C:\Users\herre\source\repos\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\herre\source\repos\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.csprojAssemblyReference.cache
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\MainWindow.g.cs
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\App.g.cs
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.cache
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.lref
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\MainWindow.baml
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.g.resources
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\herre\source\repos\Calculator_App\obj\Debug\Calculator_App.pdb
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\bin\Debug\Calculator_App.exe.config
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.csprojAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\MainWindow.g.cs
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\App.g.cs
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.cache
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.lref
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\MainWindow.baml
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.g.resources
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\herre\Documents\GitHub\School\School Work\CS4800-Calculator-App\Calculator_App\obj\Debug\Calculator_App.pdb
